@@ -1,3 +1,5 @@
+[🇷🇺 Читать по-русски](./README_ru.md)
+
 # Hi, I'm Nastydissonance 👋
 
 A musician from the province who is learning to code to help other musicians find each other. Currently actively looking for a frontend developer internship.
@@ -54,7 +56,7 @@ For access to the private Jamify repo — just message me, I'll add you as a col
 
 ## 🎸 A Little About Myself
 
-I'm a musician — I play electric guitar for a pretty long time. I understand the struggle of finding bandmates, which is exactly why I started building Jamify. I got into IT through Arch Linux, Hyprland configs, and the desire to build tools for creative people.
+I'm a musician — I play electric guitar for a pretty long time. As I grew up in a small town, I understand the struggle of finding bandmates, which is exactly why I started building Jamify. I got into IT through Arch Linux, Hyprland configs, and the desire to build tools for creative people.
 
 I love coding, beautiful UI, music and I'm not afraid of tough challenges.
 
