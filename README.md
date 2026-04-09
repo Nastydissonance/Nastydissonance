@@ -1,4 +1,4 @@
-[🇷🇺 Читать по-русски](./README_ru.md)
+[🇷🇺 Читать по-русски](./README_RU.md)
 
 # Hi, I'm Nastydissonance 👋
 
