@@ -1,6 +1,6 @@
 [🇷🇺 Читать по-русски](./README_RU.md)
 
-# Hi, I'm Nastydissonance 👋
+# Hi, I'm HorseNoRemorse 👋
 
 A musician from the province who is learning to code to help other musicians find each other. Currently actively looking for a frontend developer internship.
 
